@@ -1,11 +1,3 @@
-# spin-flip-the-quantum-lab-ising-model-simulator
-https://spin-flip-the-quantum-lab-ising-mod.vercel.app
-
-![](https://github.com/lucylow/spin-flip-the-quantum-lab-ising-model-simulator/blob/main/Screenshot%20(2009).png?raw=true)
-![](https://github.com/lucylow/spin-flip-the-quantum-lab-ising-model-simulator/blob/main/Screenshot%20(2010).png?raw=true)
-![](https://github.com/lucylow/spin-flip-the-quantum-lab-ising-model-simulator/blob/main/Screenshot%20(2011).png?raw=true)
-
-
 
 # Spin Flip — The Quantum Lab: Ising Model Simulator
 
@@ -20,6 +12,14 @@ An interactive lattice-spin laboratory for exploring magnetic ordering, thermal 
 Spin Flip lets you prepare spin configurations, change the lattice geometry and interaction type, vary temperature and magnetic field, and watch the resulting patterns and measurements evolve. Guided missions turn the experiment into a sequence of physics challenges, while the Physics Analyzer and Magnetometer Net provide additional ways to interpret a configuration.
 
 > **Physics note — Classical versus quantum:** Despite the “Quantum Lab” branding, the controls and observables exposed by the published application correspond to a classical Ising-style lattice simulation: each site is represented by an up/down spin. This is not, by itself, a quantum Ising solver. A quantum Ising model would require additional ingredients such as a transverse-field operator and a quantum state or quantum many-body solver.
+
+
+https://spin-flip-the-quantum-lab-ising-mod.vercel.app
+
+![](https://github.com/lucylow/spin-flip-the-quantum-lab-ising-model-simulator/blob/main/Screenshot%20(2009).png?raw=true)
+![](https://github.com/lucylow/spin-flip-the-quantum-lab-ising-model-simulator/blob/main/Screenshot%20(2010).png?raw=true)
+![](https://github.com/lucylow/spin-flip-the-quantum-lab-ising-model-simulator/blob/main/Screenshot%20(2011).png?raw=true)
+
 
 ---
 
